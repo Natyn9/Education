@@ -1,4 +1,4 @@
-# My homework repositiries
+# My homework repositories
 
 - branches
 - json files
